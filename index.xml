@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hi</title>
+    <link>https://www.boristomic.com/</link>
+    <description>Recent content on Hi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020 boristomic.com</copyright>
+    <lastBuildDate>Sun, 21 Jun 2020 11:24:52 +0200</lastBuildDate>
+    
+	<atom:link href="https://www.boristomic.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello</title>
+      <link>https://www.boristomic.com/posts/hello/</link>
+      <pubDate>Sun, 21 Jun 2020 11:24:52 +0200</pubDate>
+      
+      <guid>https://www.boristomic.com/posts/hello/</guid>
+      <description>After a while I have decided to create some simple website for myself. Easiest approach I found was to host it on github and build it with Hugo. I decided on Pickels theme as it&amp;rsquo;s the simplest one. Here you can find step by step guide on how to use Hugo and Github to your advantage.
+Besides coding I also enjoy being in nature and taking photos, some of which I upload to 500px.</description>
+    </item>
+    
+  </channel>
+</rss>
